@@ -1,4 +1,6 @@
-Working-in-progress
+Forked to improve:
+- add activation functions
+- connection merging
 
 ### Rust NEAT
 [![travis-ci](https://img.shields.io/travis/TLmaK0/rustneat/master.svg)](https://travis-ci.org/TLmaK0/rustneat)
